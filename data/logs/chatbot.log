@@ -1,0 +1,103 @@
+2024-12-17 11:12:21,528 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:14:42,673 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:15:00,570 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:15:13,364 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:20:50,251 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:20:54,481 - __main__ - ERROR - Erro no chatbot: Erro ao chamar a API do OpenAI: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-12-17 11:21:18,796 - __main__ - ERROR - Erro no chatbot: Erro ao chamar a API do OpenAI: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-12-17 11:21:47,819 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:21:49,604 - __main__ - ERROR - Erro no chatbot: Erro ao chamar a API do OpenAI: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-12-17 11:29:04,011 - __main__ - ERROR - Erro no chatbot: Erro ao chamar a API do OpenAI: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-12-17 11:31:16,322 - __main__ - ERROR - Erro no chatbot: Erro ao chamar a API do OpenAI: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-12-17 11:32:04,345 - __main__ - INFO - Iniciando o Chatbot
+2024-12-17 11:42:53,621 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 11:42:53,690 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 11:42:53,690 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 11:42:53,692 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 11:42:54,402 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 11:42:54,422 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 11:42:54,427 - werkzeug - INFO -  * Debugger PIN: 116-442-919
+2024-12-17 11:42:59,261 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 11:42:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-17 11:42:59,449 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 11:42:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-17 11:42:59,479 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 11:42:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-17 11:42:59,593 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 11:42:59] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=XlkP9HgKue1lnuFEyHiL HTTP/1.1" 200 -
+2024-12-17 11:42:59,767 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 11:42:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-17 13:03:04,636 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 13:03:04,675 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 13:03:04,676 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 13:03:04,678 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 13:03:05,440 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 13:03:05,447 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 13:03:05,452 - werkzeug - INFO -  * Debugger PIN: 667-350-092
+2024-12-17 13:03:11,131 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:03:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-17 13:03:11,341 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:03:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-17 13:03:11,366 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:03:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-17 13:03:11,469 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:03:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-17 13:07:22,037 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 13:07:22,058 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 13:07:22,058 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 13:07:22,061 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 13:07:22,875 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 13:07:22,882 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 13:07:22,888 - werkzeug - INFO -  * Debugger PIN: 667-350-092
+2024-12-17 13:07:25,756 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:07:25] "GET / HTTP/1.1" 200 -
+2024-12-17 13:07:26,060 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:07:26] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-12-17 13:07:26,064 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:07:26] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-12-17 13:07:26,182 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:07:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-17 13:07:30,315 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:07:30] "POST /chat HTTP/1.1" 200 -
+2024-12-17 13:11:25,428 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 13:11:25] "POST /chat HTTP/1.1" 200 -
+2024-12-17 20:04:33,808 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 20:04:33,845 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 20:04:33,845 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 20:04:33,848 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 20:04:34,908 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 20:04:34,915 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 20:04:34,919 - werkzeug - INFO -  * Debugger PIN: 667-350-092
+2024-12-17 20:11:27,983 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:27] "GET / HTTP/1.1" 200 -
+2024-12-17 20:11:28,155 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:28] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-12-17 20:11:28,167 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:28] "GET /static/js/script.js HTTP/1.1" 200 -
+2024-12-17 20:11:31,131 - openai - INFO - error_code=model_not_found error_message='The model `chatgpt-o1-mini` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-17 20:11:31,132 - __main__ - ERROR - Erro no endpoint /chat: Erro ao chamar a API do OpenAI: The model `chatgpt-o1-mini` does not exist or you do not have access to it.
+2024-12-17 20:11:31,132 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:31] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-17 20:11:34,236 - openai - INFO - error_code=model_not_found error_message='The model `chatgpt-o1-mini` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-17 20:11:34,237 - __main__ - ERROR - Erro no endpoint /chat: Erro ao chamar a API do OpenAI: The model `chatgpt-o1-mini` does not exist or you do not have access to it.
+2024-12-17 20:11:34,237 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:34] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-17 20:11:36,159 - openai - INFO - error_code=model_not_found error_message='The model `chatgpt-o1-mini` does not exist or you do not have access to it.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-17 20:11:36,159 - __main__ - ERROR - Erro no endpoint /chat: Erro ao chamar a API do OpenAI: The model `chatgpt-o1-mini` does not exist or you do not have access to it.
+2024-12-17 20:11:36,161 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:11:36] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2024-12-17 20:16:25,223 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 20:16:25,241 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 20:16:25,242 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 20:16:25,243 - werkzeug - INFO -  * Restarting with stat
+2024-12-17 20:16:26,088 - __main__ - INFO - Iniciando a aplicação web do Chatbot
+2024-12-17 20:16:26,096 - werkzeug - WARNING -  * Debugger is active!
+2024-12-17 20:16:26,102 - werkzeug - INFO -  * Debugger PIN: 667-350-092
+2024-12-17 20:17:55,091 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:17:55] "GET / HTTP/1.1" 200 -
+2024-12-17 20:17:55,235 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:17:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-12-17 20:17:55,254 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:17:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-12-17 20:17:58,646 - openai - INFO - error_code=unsupported_value error_message="Unsupported value: 'messages[0].role' does not support 'system' with this model." error_param=messages[0].role error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-17 20:17:58,647 - __main__ - ERROR - Erro no endpoint /chat: Erro ao chamar a API do OpenAI: Unsupported value: 'messages[0].role' does not support 'system' with this model.
+2024-12-17 20:17:58,647 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2024 20:17:58] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -

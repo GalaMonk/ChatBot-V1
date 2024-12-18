@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: chatbot_project
+Version: 0.1.0
+Summary: Um chatbot utilizando a API do OpenAI
+Author: Seu Nome
+Author-email: seu.email@dominio.com
+License: MIT
+Keywords: chatbot openai
+Requires-Dist: openai
+Requires-Dist: python-dotenv
